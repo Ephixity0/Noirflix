@@ -14,7 +14,7 @@
   <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5' alt="Divider" />
 </div>
 
-<h1 align="center"> **Noir+** </h1>
+<h1 align="center"> Noir+ </h1>
 
 <p align="center">
   Noir+ is a cutting-edge platform for streaming movies and TV shows online. Our project utilizes Next.js. Your Personal Streaming Oasis
