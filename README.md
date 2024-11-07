@@ -20,16 +20,6 @@
   Noir+ is a cutting-edge platform for streaming movies and TV shows online. Our project utilizes Next.js. Your Personal Streaming Oasis
 </p>
 
-<div align="left">
-  <p>
-    ![GitHub repo size](https://img.shields.io/github/repo-size/Developabile/noir-plus)
-    ![Github LOC](https://tokei.rs/b1/github/Developabile/noir-plus)
-    ![Github Files](https://tokei.rs/b1/github/Developabile/noir-plus?category=files)
-
-    [![CodeQL](https://github.com/Developabile/noir-plus/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/Developabile/noir-plus/actions/workflows/github-code-scanning/codeql)
-    [![Weekly Update TMDB Collections](https://github.com/Developabile/noir-plus/actions/workflows/weekly_update.yml/badge.svg)](https://github.com/Developabile/noir-plus/actions/workflows/weekly_update.yml)
-  </p>
-</div>
 
 ## **Features**:
 - Utilizes `server-side APIs` for data fetching, ensuring efficient server-side operations across **all ISPs**.
